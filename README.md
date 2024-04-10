@@ -5,7 +5,7 @@
     <a>Shalev Hermon</a>&nbsp;,&nbsp;
     <a>Raz Biton</a>&nbsp;&nbsp;
     
-    <br/>Technion<br/> 
+    
     
 </p>
 
