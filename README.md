@@ -105,6 +105,7 @@ you must go through all steps of the model, and complete each one as instruted b
 3. Now to the part where you enter the user's profile information to compare to the other profiles.to interact with a completly new profile, you must load a table with the same form as the static profiles one, with only one row of this person information. since we do not have new profile set like that, and this requier some change from the scrapping, currently it is not an open application, but the code to run it exists in cell 10, in which you need to put the wanted table with the name "profile_table".
 
     - cell 11: get the profile informations in the right form
+     (notice, you can change the id you want to test in this cell at the col('id')=='denise-rathburn-9138a961' part, this user must keep the condition of the filtering from cell 3)
 
 4. Running the BM25 model to find the most similar profiles.
 
@@ -122,7 +123,7 @@ you must go through all steps of the model, and complete each one as instruted b
     |         <img src="./images/education.jpg" width=45%>    |
    
    - cell 16: aggregate all the scores and sort the profiles
-     (notice, you can change the weight of each segmant by changing the weights list on this cell. in order of experience, education, information.
+     (notice, you can change the weight of each segmant by changing the weights list on this cell. in order of experience, education, information.)
 
 
        |            Example for final result             | 
