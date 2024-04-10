@@ -30,11 +30,13 @@
    git clone https://github.com/its-Raz/The-Job-Advisor.git
    cd multimodal_injection
    ```
-2. Create env
+2. verify you use python 3.8 or above and pip install the following:
 
    ```bash
-   git clone https://github.com/ebagdasa/multimodal_injection.git
-   cd multimodal_injection
+   pip install playwright.async_api
+   pip install bs4
+   pip install pandas
+   pip install tkinter
    ```   
 
 
