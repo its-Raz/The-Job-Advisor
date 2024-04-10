@@ -20,6 +20,8 @@
 - [Profiles Similarity](#ProfilesSimilarity)
 - [Job Matching](#JobMatching)
 - [([Project Report.pdf](https://github.com/its-Raz/The-Job-Advisor/blob/f197cdc85fad47573d7ed96f47640e9e2809c4fb/Project%20Report.pdf))]
+- [Word2Vec Similarity] (#Word2Vec Job Similarity)
+- [Output Reccomended Open Jobs] (# Output Reccomended Open Jobs)
 # Overview
 
 **Job Advisor Overiew**
@@ -145,7 +147,7 @@ AMIT ENTER YOUR INSTRUCTIONS HERE
  2. run Word2Vec_Job_Similarity.py to implement the word2vec similarity between the open positions from scraping, and the descriptions of past jobs of similar people
  3. the code will output in the same folder a file Most_similar_jobs_profile.csv with the most reccomended open jobs for the user
 
-# Output from the advisor
+# Output Reccomended Open Jobs
 <img src="./images/reccomanded_open_jobs.jpeg" width=45%>
 
 <img src="./images/detailed_jobs.jpeg" width=45%>
