@@ -110,7 +110,7 @@ you must go through all steps of the model, and complete each one as instruted b
      
     |                    Image Example                        | 
     | :------------------------------------------------------ | 
-    |         <img src="./images/education.jpeg" width=45%>         |
+    |         <img src="./images/education.jpg" width=45%>         |
    
    - cell 16: aggregate all the scores and sort the profiles
      (notice, you can change the weight of each segmant by changing the weights list on this cell. in order of experience, education, information.
