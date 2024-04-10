@@ -64,7 +64,7 @@ jobs to scrape from each site:
    till button is grayed out, then press 'Submit':
 |                    Image Example                        | 
 | :------------------------------------------------------ | 
-|         <img src="./images/ui_1.JPG" width=45%>         |
+|         <img src="./images/ui_1.JPG" width=25%>         |
 
 5. Job Advisor will start scraping and will save the data to csv file.
 
