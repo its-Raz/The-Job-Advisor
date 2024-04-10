@@ -44,15 +44,28 @@
 In order to scrape job you will need to have accsess to bright data Web Browser
 
 1. Enter `JobScraper` folder then `main.py`, at the top of the file, below all imports please add your Bright Data log in details:
+jobs to scrape from each site:
     ```username='ENTER USERNAME'
        password='ENTER PASSWORD'
        auth=f'{username}:{password}'
        host = 'brd.superproxy.io:9222'
        browser_url = f'wss://{auth}@{host}'
    ```
+2. Below login details, configure number of jobs to scrape from each site, you can leave it to default value (10).
+   
+    
 |                    Image Example                        | 
 | :------------------------------------------------------ | 
-| <img src="./images/login.JPG" width=45%>  |
-2. 
+|         <img src="./images/login.JPG" width=45%>        |
+
+3. Run main.py
+
+4. Press 'Next' till you reach the last window, you can leave all fields empty but 'Locaiton','Profile URL', and 'Keywords', after filling them, press 'Next'
+   till button is grayed out, then press 'Submit':
+|                    Image Example                        | 
+| :------------------------------------------------------ | 
+|         <img src="./images/ui_1.JPG" width=45%>         |
+
+5. Job Advisor will start scraping and will save the data to csv file.
 
 
