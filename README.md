@@ -135,10 +135,32 @@ jobs to scrape from each site:
 7. after you get the all_jobs.csv file, run Run companies_scraping.py file - scrape the companies data
 8. This file will save you in the same folder the companies scraping details
 
-# First Model - bm25 - Amit
-# Profiles Similarity
+# Profiles Similarity - BM25 model
+you must go through all steps of the model, and complete each one as instruted below:
 
-AMIT ENTER YOUR INSTRUCTIONS HERE 
+1. first you will have to start the session and download the static profiles and companies tables.
+   
+   - cell 1: import the necesarry function and start the session
+   - cell 2: load the static profiles and companies tables.
+   - cell 3: filter the data to improve run time and accuracy.
+  
+2. Now you will apply the preprocessing on the tables.
+   
+   - cells 4-7: reformat the data to be able to apply tf-idf for all segmants.
+   - cells 8-9: preper the segmants in tf-idf manner.
+
+3. Now to the part where you enter the user's profile information to compare to the other profiles.to interact with a completly new profile, you must load a table with the same form as the static profiles one, with only one row of this person information. since we do not have new profile set like that, and this requier some change from the scrapping, currently it is not an open application, but the code to run it exists in cell 10, in which you need to put the wanted table with the name "profile_table".
+
+    - cell 11: get the profile informations in the right form
+
+4. Running the BM25 model to find the most similar profiles.
+
+   - cell 12:  run needed functions to operate the tf-idf and find the BM score.
+   - cell 13: score experience and save the table in memory.
+   - cell 14: score education and save the table in memory.
+   - cell 15: score general information and save the table in memory.
+   - cell 16: aggregate all the scores and sort the profiles
+     (notice, you can change the weight of each segmant by changing the weights list on this cell. in order of experience, education, information.
 
  
  # Word2Vec Job Similarity
