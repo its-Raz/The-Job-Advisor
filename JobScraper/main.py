@@ -759,9 +759,9 @@ async def profile_scrape(url,user_details):
         write_to_file(scraped_data=scraped_data)
 
 
-def combine_jobs():
+def combine_jobs(csv_files):
     # Get a list of all CSV files in the directory
-    csv_files = glob.glob('*.csv')
+
 
     # List to hold all dataframes
     dfs = []
@@ -795,5 +795,9 @@ if __name__ == '__main__':
     asyncio.run(linkedin_scraping(keywords,location,link_jobs_num))
     asyncio.run(indeed_scraping(keywords, location, indeed_jobs_num))
     asyncio.run(zip_scraping(keywords, location, zip_jobs_num))
+    # List of CSV file names to combine
+    csv_files_to_combine = ['link_jobs.csv', 'indeed_jobs.csv', 'zip_jobs.csv']
 
+    # Call the function with the list of CSV file names
+    combine_jobs(csv_files_to_combine)
 
