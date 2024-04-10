@@ -19,8 +19,8 @@
 - [JobScraping](#JobScraping)
 - [Profiles Similarity - BM25 model](#Profiles-Similarity---BM25-model)
 - [Job Matching](#JobMatching)
-- [Word2Vec Similarity] (#Word2Vec Job Similarity)
-- [Output Reccomended Open Jobs] (#Output Reccomended Open Jobs)
+- [Word2Vec Similarity](#Word2Vec Job Similarity)
+- [Output Reccomended Open Jobs](#Output Reccomended Open Jobs)
 - [([Project Report.pdf](https://github.com/its-Raz/The-Job-Advisor/blob/f197cdc85fad47573d7ed96f47640e9e2809c4fb/Project%20Report.pdf))]
 
 # Overview
