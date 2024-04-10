@@ -19,7 +19,7 @@
 - [JobScraping](#JobScraping)
 - [Profiles Similarity](#ProfilesSimilarity)
 - [Job Matching](#JobMatching)
-- [Word2Vec Similarity] (#Word2VecJobSimilarity)
+- [Word2Vec Similarity] (#Word2Vec Job Similarity)
 - [Output Reccomended Open Jobs] (#Output Reccomended Open Jobs)
 - [([Project Report.pdf](https://github.com/its-Raz/The-Job-Advisor/blob/f197cdc85fad47573d7ed96f47640e9e2809c4fb/Project%20Report.pdf))]
 
@@ -141,7 +141,7 @@ jobs to scrape from each site:
 AMIT ENTER YOUR INSTRUCTIONS HERE 
 
  
- # Word2VecJobSimilarity
+ # Word2Vec Job Similarity
  After you get the similar_people.csv dataset from the previous model:
  This part using the linkedin_jobs_scraping.csv, all_companies_scraping.csv, similar_people.csv 
  1. run the file extracting_past_jobs.py to implement the feature extraction of descriptions from the linkedin.csv dataset
