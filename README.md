@@ -72,9 +72,7 @@ jobs to scrape from each site:
 
 6. Job Advisor will start scraping and will save the data to same folder, you can inspect list of jobs from each site or all combined.
 
-# ProfilesSimilarity
 
-AMIT ENTER YOUR INSTRUCTIONS HERE 
 
 1. Enter `JobScraper` folder then `main.py`, at the top of the file, below all imports please add your Bright Data log in details:
 jobs to scrape from each site:
@@ -135,7 +133,9 @@ jobs to scrape from each site:
 8. This file will save you in the same folder the companies scraping details
 
 # First Model - bm25 - Amit
+# Profiles Similarity
 
+AMIT ENTER YOUR INSTRUCTIONS HERE 
 
  
  # Word2Vec Job Similarity
