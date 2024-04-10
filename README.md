@@ -28,7 +28,7 @@
 
 ([Pre-Scraped Jobs for evaluation download](https://drive.google.com/file/d/1qE5rjpZ-AHP_8JA9ha98ZVzh4tO1pubC/view?usp=sharing))
 ([User profile data scraped+manually example download](https://drive.google.com/file/d/109ycESV07WXLup5_mFe6GVVGW10FqJtp/view?usp=sharing))
-
+([companies scraping dataset](https://drive.google.com/file/d/1Ca88bxNq3sfaT60EXL0Ra1auB94M3bEc/view?usp=drive_link))
 
 **Job Advisor Overiew**
 
