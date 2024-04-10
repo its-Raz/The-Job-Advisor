@@ -83,7 +83,7 @@ jobs to scrape from each site:
 
 
 
-[Profiles Similarity - BM25 model](#Profiles_Similarity_-_BM25_model)
+# [Profiles Similarity - BM25 model](#Profiles_Similarity_-_BM25_model)
 you must go through all steps of the model, and complete each one as instruted below:
 
 1. first you will have to start the session and download the static profiles and companies tables.
