@@ -112,7 +112,7 @@ you must go through all steps of the model, and complete each one as instruted b
 
 |                    Image Example                        | 
 | :------------------------------------------------------ | 
-|         <img src="./images/education.JPG" width=45%>         |
+|         <img src="./images/education.jpg" width=45%>         |
 
  
 # Word2Vec Job Similarity
