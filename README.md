@@ -147,4 +147,9 @@ AMIT ENTER YOUR INSTRUCTIONS HERE
 
 # Output from the advisor
 <img src="./images/reccomanded_open_jobs.jpeg" width=45%>
+
+<img src="./images/detailed_jobs.jpeg" width=45%>
+
+<img src="./images/word_cloud_similarity.png" width=45%>
+
  
