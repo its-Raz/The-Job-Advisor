@@ -41,7 +41,7 @@
 
 # JobScraping
 
-In order to scrape job you will need to have accsess to bright data Web Browser
+In order to scrape job you will need to have accsess to bright data Web Browser. If you want to skip this part, you can use the pre-scraped csv files in the `JobScraper` folder.
 
 1. Enter `JobScraper` folder then `main.py`, at the top of the file, below all imports please add your Bright Data log in details:
 jobs to scrape from each site:
