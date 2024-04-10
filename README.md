@@ -145,4 +145,6 @@ AMIT ENTER YOUR INSTRUCTIONS HERE
  2. run Word2Vec_Job_Similarity.py to implement the word2vec similarity between the open positions from scraping, and the descriptions of past jobs of similar people
  3. the code will output in the same folder a file Most_similar_jobs_profile.csv with the most reccomended open jobs for the user
 
+# Output from the advisor
+<img src="./images/reccomanded_open_jobs.jpeg" width=45%>
  
