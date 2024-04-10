@@ -9,7 +9,7 @@
     
 </p>
 
-[[Project Report](Project Report.pdf)]
+[[Project Report]([Project Report.pdf](https://github.com/its-Raz/The-Job-Advisor/blob/f197cdc85fad47573d7ed96f47640e9e2809c4fb/Project%20Report.pdf))]
 
 
 
