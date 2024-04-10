@@ -17,7 +17,7 @@
 
 - [Overview](#overview)
 - [JobScraping](#JobScraping)
-- [Profiles Similarity - BM25 model](#Profiles-Similarity-BM25-model)
+- [Profiles Similarity - BM25 model](#Profiles Similarity BM25 model)
 - [Job Matching](#JobMatching)
 - [Word2Vec Similarity] (#Word2Vec Job Similarity)
 - [Output Reccomended Open Jobs] (#Output Reccomended Open Jobs)
@@ -83,7 +83,7 @@ jobs to scrape from each site:
 
 
 
-# Profiles-Similarity-BM25-model
+# Profiles Similarity BM25 model
 you must go through all steps of the model, and complete each one as instruted below:
 
 1. first you will have to start the session and download the static profiles and companies tables.
