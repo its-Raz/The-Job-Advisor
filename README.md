@@ -74,7 +74,8 @@ jobs to scrape from each site:
 |         <img src="./images/ui_1.JPG" width=45%>         |
 
 6. Job Advisor will start scraping and will save the data to same folder, you can inspect list of jobs from each site or all combined.
-
+7. after you get the all_jobs.csv file, run Run companies_scraping.py file - scrape the companies data
+8. This file will save you in the same folder the companies scraping details
 
 
 1. Enter `JobScraper` folder then `main.py`, at the top of the file, below all imports please add your Bright Data log in details:
@@ -132,8 +133,7 @@ jobs to scrape from each site:
 |         <img src="./images/ui_1.JPG" width=45%>         |
 
 6. Job Advisor will start scraping and will save the data to same folder, you can inspect list of jobs from each site or all combined.
-7. after you get the all_jobs.csv file, run Run companies_scraping.py file - scrape the companies data
-8. This file will save you in the same folder the companies scraping details
+
 
 # Profiles Similarity - BM25 model
 you must go through all steps of the model, and complete each one as instruted below:
