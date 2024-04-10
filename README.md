@@ -17,7 +17,7 @@
 
 - [Overview](#overview)
 - [JobScraping](#JobScraping)
-- [Profiles Similarity - BM25 model](# Profiles-Similarity-BM25 model)
+- [Profiles Similarity - BM25 model](#Profiles-Similarity-BM25 model)
 - [Job Matching](#JobMatching)
 - [Word2Vec Similarity] (#Word2Vec Job Similarity)
 - [Output Reccomended Open Jobs] (#Output Reccomended Open Jobs)
