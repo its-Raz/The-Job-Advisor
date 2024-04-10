@@ -24,6 +24,9 @@
 - [([Project Report.pdf](https://github.com/its-Raz/The-Job-Advisor/blob/f197cdc85fad47573d7ed96f47640e9e2809c4fb/Project%20Report.pdf))]
 
 # Overview
+**Collected Data Download Link**
+([Pre-Scraped Jobs for evaluation](https://drive.google.com/file/d/1qE5rjpZ-AHP_8JA9ha98ZVzh4tO1pubC/view?usp=sharing))
+
 
 **Job Advisor Overiew**
 
