@@ -108,8 +108,8 @@ you must go through all steps of the model, and complete each one as instruted b
    - cell 14: score education and save the table in memory.
    - cell 15: score general information and save the table in memory.
      
-    |              Example for education scoring              | 
-    | :------------------------------------------------------ | 
+    |Example for education scoring| 
+    | :---------------------------------------- | 
     |         <img src="./images/education.jpg" width=45%>    |
    
    - cell 16: aggregate all the scores and sort the profiles
