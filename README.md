@@ -126,10 +126,10 @@ you must go through all steps of the model, and complete each one as instruted b
  3. the code will output in the same folder a file Most_similar_jobs_profile.csv with the most reccomended open jobs for the user
 
 # Output Recommended Open Jobs
-<img src="./images/reccomanded_open_jobs.jpeg" width=45%>
+<img src="./images/reccomanded_open_jobs.jpeg" width=70%>
 
-<img src="./images/detailed_jobs.jpeg" width=45%>
+<img src="./images/detailed_jobs.jpeg" width=70%>
 
-<img src="./images/word_cloud_similarity.png" width=45%>
+<img src="./images/word_cloud_similarity.png" width=70%>
 
  
