@@ -61,8 +61,8 @@ jobs to scrape from each site:
 
 3. Run main.py
 
-4. Press 'Next' till you reach the last window, you can leave all fields empty but 'Locaiton','Profile URL', and 'Keywords', after filling them, press 'Next'
-   till button is grayed out, then press 'Submit':
+4. Press `Next` till you reach the last window, you can leave all fields empty but `Locaiton`,`Profile URL`, and `Keywords`, after filling them, press `Next`
+   till button is grayed out, then press `Submit`:
    
 |                    Image Example                        | 
 | :------------------------------------------------------ | 
