@@ -133,3 +133,18 @@ jobs to scrape from each site:
 |         <img src="./images/ui_1.JPG" width=45%>         |
 
 6. Job Advisor will start scraping and will save the data to same folder, you can inspect list of jobs from each site or all combined.
+7. after you get the all_jobs.csv file, run Run companies_scraping.py file
+8. This file will save you in the same folder the companies scraping details
+
+# First Model - bm25 - Amit
+
+
+ 
+ # Word2Vec Job Similarity
+ After you get the similar_people.csv dataset from the previous model:
+ This part using the linkedin_jobs_scraping.csv, all_companies_scraping.csv, similar_people.csv 
+ 1. run the file extracting_past_jobs.py to implement the feature extraction of descriptions from the linkedin.csv dataset
+ 2. run Word2Vec_Job_Similarity.py to implement the word2vec similarity between the open positions from scraping, and the descriptions of past jobs of similar people
+ 3. the code will output in the same folder a file Most_similar_jobs_profile.csv with the most reccomended open jobs for the user
+
+ 
