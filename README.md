@@ -62,10 +62,11 @@ jobs to scrape from each site:
 
 4. Press 'Next' till you reach the last window, you can leave all fields empty but 'Locaiton','Profile URL', and 'Keywords', after filling them, press 'Next'
    till button is grayed out, then press 'Submit':
+   
 |                    Image Example                        | 
 | :------------------------------------------------------ | 
 |         <img src="./images/ui_1.JPG" width=45%>         |
 
-5. Job Advisor will start scraping and will save the data to csv file.
+6. Job Advisor will start scraping and will save the data to csv file.
 
 
