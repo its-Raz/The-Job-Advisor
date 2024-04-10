@@ -120,9 +120,9 @@ you must go through all steps of the model, and complete each one as instruted b
      (notice, you can change the weight of each segmant by changing the weights list on this cell. in order of experience, education, information.
 
 
-         |Example for final result| 
-    | :---------------------------------------- | 
-    |         <img src="./images/final.jpg" width=45%>    |
+       |            Example for final result             | 
+       | :---------------------------------------------- | 
+       |     <img src="./images/final.jpg" width=45%>    |
 
 
 
