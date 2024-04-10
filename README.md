@@ -107,7 +107,11 @@ you must go through all steps of the model, and complete each one as instruted b
    - cell 13: score experience and save the table in memory.
    - cell 14: score education and save the table in memory.
    - cell 15: score general information and save the table in memory.
-     
+
+    |Example for experience scoring| 
+    | :---------------------------------------- | 
+    |         <img src="./images/experience.jpg" width=45%>    |
+
     |Example for education scoring| 
     | :---------------------------------------- | 
     |         <img src="./images/education.jpg" width=45%>    |
