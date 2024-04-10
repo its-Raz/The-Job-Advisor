@@ -9,7 +9,7 @@ password='babah28udbeg'
 auth= f'{username}:{password}'
 host = 'brd.superproxy.io:9222'
 browser_url = f'wss://{auth}@{host}'
-all_jobs = pd.read_csv(r"C:\Users\shale\Downloads\more_jobs.csv")
+all_jobs = pd.read_csv(r".\all_jobs.csv")
 companies_url = list(all_jobs['url_final'].unique())
 results_dict = {}
 len_df = len(companies_url)
@@ -24,9 +24,9 @@ async def main():
         print('connected')
         page = await browser.new_page()
         print('goto')
-        counter = 1918
-        counter_save = 1918
-        for url in companies_url[1918:]:
+        counter = 0
+        counter_save = 0
+        for url in companies_url:
             try:
                 company_url =  url
                 await page.goto(company_url, timeout=120000)
