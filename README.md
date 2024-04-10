@@ -36,7 +36,7 @@
 
    ```bash
    git clone https://github.com/its-Raz/The-Job-Advisor.git
-   cd multimodal_injection
+   
    ```
 2. verify you use python 3.8 or above and pip install the following:
 
