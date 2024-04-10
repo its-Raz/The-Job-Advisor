@@ -27,7 +27,7 @@
 1. Clone this repository and 
 
    ```bash
-   git clone https://github.com/ebagdasa/multimodal_injection.git
+   git clone [https://github.com/ebagdasa/multimodal_injection.git](https://github.com/its-Raz/The-Job-Advisor.git)
    cd multimodal_injection
    ```
 2. Create env
