@@ -52,7 +52,7 @@ In order to scrape job you will need to have accsess to bright data Web Browser
    ```
 |                    Image Example                        | 
 | :------------------------------------------------------ | 
-| <img src="./images/login.jpeg" width=45%>  |
+| <img src="./images/login.jpg" width=45%>  |
 2. 
 
 
