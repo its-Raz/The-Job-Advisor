@@ -19,9 +19,10 @@
 - [JobScraping](#JobScraping)
 - [Profiles Similarity](#ProfilesSimilarity)
 - [Job Matching](#JobMatching)
-- [([Project Report.pdf](https://github.com/its-Raz/The-Job-Advisor/blob/f197cdc85fad47573d7ed96f47640e9e2809c4fb/Project%20Report.pdf))]
 - [Word2Vec Similarity] (#Word2Vec Job Similarity)
-- [Output Reccomended Open Jobs] (# Output Reccomended Open Jobs)
+- [Output Reccomended Open Jobs] (#Output Reccomended Open Jobs)
+- [([Project Report.pdf](https://github.com/its-Raz/The-Job-Advisor/blob/f197cdc85fad47573d7ed96f47640e9e2809c4fb/Project%20Report.pdf))]
+
 # Overview
 
 **Job Advisor Overiew**
