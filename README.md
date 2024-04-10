@@ -163,7 +163,7 @@ you must go through all steps of the model, and complete each one as instruted b
      (notice, you can change the weight of each segmant by changing the weights list on this cell. in order of experience, education, information.
 
  
- # Word2Vec Job Similarity
+# Word2Vec Job Similarity
  After you get the similar_people.csv dataset from the previous model:
  This part using the linkedin_jobs_scraping.csv, all_companies_scraping.csv, similar_people.csv 
  1. run the file extracting_past_jobs.py to implement the feature extraction of descriptions from the linkedin.csv dataset
