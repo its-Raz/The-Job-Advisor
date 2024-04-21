@@ -56,15 +56,15 @@ jobs to scrape from each site:
        username='ENTER USERNAME'
        password='ENTER PASSWORD'
        auth=f'{username}:{password}'
-       host = 'brd.superproxy.io:9222'
-       browser_url = f'wss://{auth}@{host}'
+       host = ''
+       browser_url = f''
    ```
 2. Below login details, configure number of jobs to scrape from each site, you can leave it to default value (10).
    
     
 |                    Image Example                        | 
 | :------------------------------------------------------ | 
-|         <img src="./images/login.JPG" width=45%>        |
+|         <img src="./images/login1.JPG" width=45%>        |
 
 3. Run main.py
 
