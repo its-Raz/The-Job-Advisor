@@ -4,10 +4,10 @@ from bs4 import BeautifulSoup
 import pandas as pd
 
 
-username='brd-customer-hl_80709a30-zone-dc_shalev'
-password='babah28udbeg'
+username=''
+password=''
 auth= f'{username}:{password}'
-host = 'brd.superproxy.io:9222'
+host = ''
 browser_url = f'wss://{auth}@{host}'
 all_jobs = pd.read_csv(r"C:\Users\shale\Downloads\more_jobs.csv")
 companies_url = list(all_jobs['url_final'].unique())
