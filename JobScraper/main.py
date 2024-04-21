@@ -8,12 +8,12 @@ import pandas as pd
 import glob
 from ui import *
 
-# Log In details for BRIGHT-DATA
+# Log In details for 
 username=''
 password=''
 auth=f'{username}:{password}'
-host = 'brd.superproxy.io:9222'
-browser_url = f'wss://{auth}@{host}'
+host = ''
+browser_url = f''
 
 # configure number of jobs to scrape from each site, default value is 10
 link_jobs_num = 10
