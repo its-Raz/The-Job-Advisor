@@ -113,7 +113,7 @@ you must go through all steps of the model, and complete each one as instruted b
 
     |Example for experience scoring| 
     | :---------------------------------------- | 
-    |         <img src="./images/experience.jpg" width=45%>    |
+    |         <img src="./images/experience_blacked.png" width=45%>    |
 
     |Example for education scoring| 
     | :---------------------------------------- | 
@@ -125,7 +125,7 @@ you must go through all steps of the model, and complete each one as instruted b
 
        |            Example for final result             | 
        | :---------------------------------------------- | 
-       |     <img src="./images/final.jpg" width=45%>    |
+       |     <img src="./images/final_blacked.png" width=45%>    |
 
 
 
